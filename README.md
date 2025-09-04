@@ -25,7 +25,7 @@ We combine creativity, engineering, and research to build products that matter.
 
 ## 🌍 Connect With Us
 - 🔗 Website: [spacewind.xyz](https://spacewind.xyz)  
-- 🐙 GitHub Org: [github.com/spacewind](https://github.com/spacewind)  
+- 🐙 GitHub Org: [github.com/spacewind-innovation](https://github.com/spacewind)  
 - 📩 Email: info@spacewind.xyz  
 
 ---
